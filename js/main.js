@@ -63,4 +63,4 @@ window.addEventListener('scroll', () => {
 // Console message for developers
 console.log('%c🎓 QuizFlow AI', 'font-size: 24px; font-weight: bold; color: #667eea;');
 console.log('%cInterested in the code? Check out the GitHub repo!', 'font-size: 14px; color: #64748b;');
-console.log('https://github.com/Faheem-ai/quiz-automation-landing');
+console.log('https://github.com/FaheemAIX/QuizFlowAI');
