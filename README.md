@@ -297,6 +297,10 @@ We welcome contributions! Here's how you can help:
 
 ## 🎥 Demo
 
+### Live Demo
+[Live project Demo](https://faheemaix.github.io/QuizFlowAI/)
+
+
 ### Video Walkthrough
 [![Demo Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7400796401808371712?compact=1)]
 
